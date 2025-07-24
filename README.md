@@ -55,10 +55,12 @@ url-shortener-project/
 ---
 
 ## ✨ Example
+
 **Input:**
 
-Enter long URL: https://www.instagram.com/anjalliii_23
+Enter long URL: https://example.com
 
 **Output:**
 
-Short URL: http://localhost/url-shortner/redirect.php?code=xYz12A
+Short URL: http://localhost/url-shortner/redirect.php?code=AbC123
+
